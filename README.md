@@ -1,4 +1,3 @@
-
 # Minimal Portfolio Website
 
 This repository contains a minimalistic portfolio website built using HTML, CSS, and JavaScript. The website showcases various sections including "About Me," "Abilities," "Services," "Recent Works," "Testimonials," and a functional contact space where users can get in touch via WhatsApp, Messenger, or email. The website is designed to be mobile-friendly and features a unique menu bar for easy navigation on both mobile and desktop devices. Additionally, the website offers a dark-light mode switch for enhanced user experience. Several JavaScript libraries, including SwiperJS, MixItUpJS, and ScrollRevealJS, are utilized to add dynamic elements to the website.

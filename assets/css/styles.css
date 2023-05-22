@@ -160,6 +160,10 @@ body.light-theme
   color: var(--first-color);
 }
 
+.light-theme .home__social-link:hover{
+  color: var(--container-color);
+}
+
 .light-theme .home__social::after{
   background-color: var(--first-color);
 }
@@ -1185,7 +1189,7 @@ body.light-theme
   }
   .about__img
   {
-    width: 220px;
+    width: 280px;
   }
   .about__data
   {
